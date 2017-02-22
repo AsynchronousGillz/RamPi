@@ -1,0 +1,8 @@
+# wdtrc
+# this file is a config file for wdt101.sh
+# lines that start with # are comments
+
+wget
+iperf
+curl
+ping
